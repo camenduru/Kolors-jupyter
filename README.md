@@ -18,3 +18,5 @@ https://github.com/Kwai-Kolors/Kolors/blob/master/imgs/Kolors_paper.pdf
 https://kwai-kolors.github.io/
 
 ### 🖼 Output
+
+![bddd8924-0f9a-4a41-951e-e9b19909b842](https://github.com/camenduru/Kolors-jupyter/assets/54370274/046b8dcb-a408-4b62-ac2f-f817e452375b)
